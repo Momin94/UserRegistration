@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  UserRegistration
-//
-//  Created by momin on 06/10/2021.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
